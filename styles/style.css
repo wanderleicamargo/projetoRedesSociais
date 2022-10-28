@@ -49,7 +49,7 @@ section#socialmedia img{
 }
 section#socialmedia img:hover{
     border: 2px solid rgba(255, 255, 255, 0.356);
-    transform: translate(-2px, -2px);
+    transform: translate(0px, 2px);
     box-shadow: 5px 5px 5px black;
     transition: transform 500ms, border 600ms;
 }
